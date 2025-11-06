@@ -15,7 +15,6 @@ python --version
 ### Cloner le dépôt
 ```
 git clone https://github.com/menouaw/formation_langgraph.git
-$ cd langchain-academy
 ```
 // TODO inclure la version zip
 
@@ -23,7 +22,7 @@ $ cd langchain-academy
 #### Mac/Linux/WSL
 ```
 $ python -m venv venv
-$ source venv/bin/activate
+$ source venv/bin/activate (ou `source venv/Script/activate` pour bash sous Windows)
 $ pip install -r requirements.txt
 ```
 #### Windows Powershell
