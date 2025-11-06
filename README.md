@@ -43,8 +43,8 @@ $ jupyter notebook
 ### Clef d'API OpenAI
 - Récupérer une clef d'API OpenAI [ici](https://openai.com/index/openai-api/).
 
-### Inscription et configuration de LangSmith
-- Inscrivez-vous à LangSmith [ici](https://docs.langchain.com/langsmith/create-account-api-key#create-an-account-and-api-key) et découvrez-en plus sur LangSmith et son utilisation dans votre flux de travail [ici](https://www.langchain.com/langsmith).
+### LangSmith
+- Si vous souhaitez utiliser [LangSmith](https://www.langchain.com/langsmith) pour le suivi et la visualisation des agents, profiter de l'offre gratuite [ici](https://docs.langchain.com/langsmith/create-account-api-key#create-an-account-and-api-key).
 
 ### Configuration de LangSmith Studio
 
