@@ -14,7 +14,7 @@ python --version
 
 ### Cloner le dépôt
 ```
-git clone https://github.com/menouaw/formation_langgraph.git
+git clone https://github.com/menouaw/formation_langgraph.git && formation_langgraph
 ```
 // TODO inclure la version zip
 
